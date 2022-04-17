@@ -1,3 +1,3 @@
 function gatherEmail() {
-    let userEmail = document.getElementById("userEmail").value;
+    let UserEmail = document.getElementById("userEmail").value;
 }
