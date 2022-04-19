@@ -5,7 +5,7 @@ function comparePassword() {
     let userPasswordInput = document.getElementById("userPassword").value;
     let correctPassword = 618618;
     if (userEmailInput == correctEmail && userPasswordInput == correctPassword) {
-        window.location.href = '../travel-package-1/index.html';
+        history.back();
         let signInState = true;
     } else if (userEmailInput != correctEmail && userPasswordInput == correctPassword) {
             window.alert('你输入的邮箱尚未注册!');
