@@ -1,12 +1,10 @@
 function comparePassword() {
-    let signInState = false;
     let userEmailInput = document.getElementById("userEmail").value;
     let correctEmail = "vtam@sd38.bc.ca";
     let userPasswordInput = document.getElementById("userPassword").value;
     let correctPassword = 618618;
     if (userEmailInput == correctEmail && userPasswordInput == correctPassword) {
         history.back();
-        let signInState = true;
     } else if (userEmailInput != correctEmail && userPasswordInput == correctPassword) {
             window.alert('你输入的邮箱尚未注册!');
         } else if (userEmailInput == correctEmail && userPasswordInput != correctPassword) {

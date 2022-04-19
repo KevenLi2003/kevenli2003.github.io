@@ -265,7 +265,7 @@ body {
 }
 .el:nth-child(1) .el__bg:before {
   transition-delay: 0s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-3.jpg");
+  background-image: url("https://static01.nyt.com/images/2018/10/24/world/24china-bridge-1/merlin_145672332_66e20758-c811-4c4a-b007-d4d9f6d92665-master1050.jpg");
 }
 .el:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
@@ -284,7 +284,7 @@ body {
 }
 .el:nth-child(2) .el__bg:before {
   transition-delay: 0.1s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-4.jpg");
+  background-image: url("https://file.moyublog.com/d/file/2020-11-25/b3c2742758b272d46b3cb13211ba490c.jpg");
 }
 .el:nth-child(3) {
   transform: translate3d(210.4166666667%, 0, 0);
@@ -303,7 +303,7 @@ body {
 }
 .el:nth-child(3) .el__bg:before {
   transition-delay: 0.2s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-5.jpg");
+  background-image: url("../travel-travel_agency/guns.jpg");
 }
 .el:nth-child(4) {
   transform: translate3d(315.625%, 0, 0);
@@ -322,7 +322,7 @@ body {
 }
 .el:nth-child(4) .el__bg:before {
   transition-delay: 0.3s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-6.jpg");
+  background-image: url("https://static01.nyt.com/images/2019/12/18/world/18china-macau-promo/merlin_166022097_cbea1f31-cfce-4ded-ac7c-c4d50e26ae19-master1050.jpg");
 }
 .el:nth-child(5) {
   transform: translate3d(420.8333333333%, 0, 0);
